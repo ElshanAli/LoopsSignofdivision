@@ -1,0 +1,14 @@
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\bin\Debug\netcoreapp3.1\SignofdivisionLoops.exe
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\bin\Debug\netcoreapp3.1\SignofdivisionLoops.deps.json
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\bin\Debug\netcoreapp3.1\SignofdivisionLoops.runtimeconfig.json
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\bin\Debug\netcoreapp3.1\SignofdivisionLoops.runtimeconfig.dev.json
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\bin\Debug\netcoreapp3.1\SignofdivisionLoops.dll
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\bin\Debug\netcoreapp3.1\SignofdivisionLoops.pdb
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\obj\Debug\netcoreapp3.1\SignofdivisionLoops.csproj.AssemblyReference.cache
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\obj\Debug\netcoreapp3.1\SignofdivisionLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\obj\Debug\netcoreapp3.1\SignofdivisionLoops.AssemblyInfoInputs.cache
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\obj\Debug\netcoreapp3.1\SignofdivisionLoops.AssemblyInfo.cs
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\obj\Debug\netcoreapp3.1\SignofdivisionLoops.csproj.CoreCompileInputs.cache
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\obj\Debug\netcoreapp3.1\SignofdivisionLoops.dll
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\obj\Debug\netcoreapp3.1\SignofdivisionLoops.pdb
+D:\This PC\SignofdivisionLoops\SignofdivisionLoops\obj\Debug\netcoreapp3.1\SignofdivisionLoops.genruntimeconfig.cache
